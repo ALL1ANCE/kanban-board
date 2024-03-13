@@ -1,24 +1,15 @@
-# README
+# Проект по дисциплине "Языки Интернет-программирования"
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Инструменты реализации:
 
-Things you may want to cover:
+* HTML
 
-* Ruby version
+* CSS
 
-* System dependencies
+* JavaScript
 
-* Configuration
+* PostgreSQL
 
-* Database creation
+* Ruby on Rails
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# О проекте
